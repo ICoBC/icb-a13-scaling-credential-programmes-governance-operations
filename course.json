@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-A13",
+  "repository": "icb-a13-scaling-credential-programmes-governance-operations",
+  "repository_url": "https://github.com/ICoBC/icb-a13-scaling-credential-programmes-governance-operations",
+  "title": "Scaling Credential Programmes: Governance and Operations",
+  "subtitle": "From a successful pilot to a permanent service.",
+  "version": "1.0.0",
+  "series": "Advanced",
+  "skill": "Adoption and change leadership",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-ADPT-L4-A",
+  "badge_name": "Scaling Credential Programmes: Governance and Operations (Ability, L4)",
+  "hours": "8",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-a13/",
+  "parts": [
+    "About this course",
+    "Governance",
+    "Service model",
+    "Growth and retirement",
+    "Reporting",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 16
+}
